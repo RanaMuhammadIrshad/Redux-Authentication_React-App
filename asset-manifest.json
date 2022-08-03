@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Redux-Authentication_React-App/static/css/main.66fd9d71.chunk.css",
+    "main.js": "/Redux-Authentication_React-App/static/js/main.714b5abf.chunk.js",
+    "main.js.map": "/Redux-Authentication_React-App/static/js/main.714b5abf.chunk.js.map",
+    "runtime-main.js": "/Redux-Authentication_React-App/static/js/runtime-main.1a434b00.js",
+    "runtime-main.js.map": "/Redux-Authentication_React-App/static/js/runtime-main.1a434b00.js.map",
+    "static/js/2.61cb7cdf.chunk.js": "/Redux-Authentication_React-App/static/js/2.61cb7cdf.chunk.js",
+    "static/js/2.61cb7cdf.chunk.js.map": "/Redux-Authentication_React-App/static/js/2.61cb7cdf.chunk.js.map",
+    "index.html": "/Redux-Authentication_React-App/index.html",
+    "static/css/main.66fd9d71.chunk.css.map": "/Redux-Authentication_React-App/static/css/main.66fd9d71.chunk.css.map",
+    "static/js/2.61cb7cdf.chunk.js.LICENSE.txt": "/Redux-Authentication_React-App/static/js/2.61cb7cdf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a434b00.js",
+    "static/js/2.61cb7cdf.chunk.js",
+    "static/css/main.66fd9d71.chunk.css",
+    "static/js/main.714b5abf.chunk.js"
+  ]
+}
